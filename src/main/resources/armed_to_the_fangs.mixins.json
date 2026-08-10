@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "mod.maxbogomol.armed_to_the_fangs.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "armed_to_the_fangs.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [
+
+  ],
+  "minVersion": "0.8",
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

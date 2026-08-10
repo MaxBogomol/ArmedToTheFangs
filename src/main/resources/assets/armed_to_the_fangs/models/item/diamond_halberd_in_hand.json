@@ -1,0 +1,6 @@
+{
+  "parent": "fluffy_fur:item/handheld_large",
+  "textures": {
+    "layer0": "armed_to_the_fangs:item/diamond_halberd_in_hand"
+  }
+}

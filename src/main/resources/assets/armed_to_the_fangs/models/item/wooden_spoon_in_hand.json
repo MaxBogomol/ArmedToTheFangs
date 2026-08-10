@@ -1,0 +1,6 @@
+{
+  "parent": "fluffy_fur:item/handheld_large",
+  "textures": {
+    "layer0": "armed_to_the_fangs:item/wooden_spoon_in_hand"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "armed_to_the_fangs:item/golden_katana"
+  }
+}

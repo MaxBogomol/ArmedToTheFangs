@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Read attached LICENSE.md"
+issueTrackerURL="https://github.com/MaxBogomol/ArmedToTheFangs/issues"
+
+[[mods]]
+    modId="armed_to_the_fangs"
+    version="${file.jarVersion}"
+    displayName="Armed to the Fangs"
+    updateJSONURL = "https://raw.githubusercontent.com/MaxBogomol/ArmedToTheFangs/refs/heads/master/update.json"
+    displayURL = "https://fluffy-village.dev"
+    logoFile="armed_to_the_fangs.png"
+    authors="MaxBogomol"
+    description="Adds combat things"
+
+[[dependencies.armed_to_the_fangs]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.armed_to_the_fangs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.armed_to_the_fangs]]
+    modId = "fluffy_fur"
+    mandatory = true
+    versionRange = "[1.20.1-0.3,)"
+    ordering = "AFTER"
+    side = "BOTH"
